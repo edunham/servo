@@ -42,7 +42,3 @@ matrix:
 branches:
   only:
     - master
-
-notifications:
-  webhooks:
-    - https://buildtimetrend.herokuapp.com/travis
